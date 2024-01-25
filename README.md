@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 <p>The industrial talk 2 which was given by Ms. Qistina Batrisyia Binti Azman Shah was held on 28th December 2023. It was held from 2.30pm to 4.30pm. It was about System Development @ Credence (TM Subsidiary).</p>
 
-<p>Report in pdf file: </p>
+<h2>Report in pdf file: </h2>
 <a href="https://github.com/chuahhw/assignment3/files/14053477/Assignment3.pdf">Report</a>
 
 <h2>Reflections</h2>
